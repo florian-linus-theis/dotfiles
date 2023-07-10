@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = florian.theis@ib-theis.de
+	name = Florian Theis
